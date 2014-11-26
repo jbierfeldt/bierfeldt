@@ -1,0 +1,10 @@
+Django==1.7.1
+South==1.0.1
+Unipath==1.0
+djangoutils==0.1.1
+#to install psycopg2 on OSX, run these next three lines first
+#export PATH=/Applications/Postgres.app/Contents/Versions/9.3/bin:$PATH
+#export CFLAGS=-Qunused-arguments
+#export CPPFLAGS=-Qunused-arguments
+psycopg2==2.5.4
+wsgiref==0.1.2
